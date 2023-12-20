@@ -1,4 +1,4 @@
-- 👋 Hey i'm  @BigJellyDog
+- 👋 Hey i'm  Chris
 - 👀 I’m interested in no idea  
 - 🌱 I’m currently learning Python  
 - 💞️ I’m looking to collaborate on what ever you like

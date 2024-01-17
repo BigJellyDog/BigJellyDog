@@ -1,8 +1,8 @@
 - 👋 Hey i'm  Chris
-- 👀 I’m interested in no idea  
+- 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python  
 - 💞️ I’m looking to collaborate on what ever you like
-- 📫 How to reach me 
+- 📫 You can reach me at christianfreud95@gmail.com or https://www.linkedin.com/in/bigjellydog/
 
 <!---
 BigJellyDog/BigJellyDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

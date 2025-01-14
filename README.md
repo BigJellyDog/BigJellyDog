@@ -1,6 +1,6 @@
 - 👋 Hey i'm  Chris
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning С/C++  
 - 💞️ I’m looking to collaborate on what ever you like
 - 📫 You can reach me at christianfreud95@gmail.com or https://www.linkedin.com/in/bigjellydog/
 

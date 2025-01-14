@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++ Programming
 - 🌱 I’m currently learning С/C++  
 - 💞️ I’m looking to collaborate on what ever you like
-- 📫 You can reach me at christianfreud95@gmail.com or https://www.linkedin.com/in/bigjellydog/
+- 📫 You can reach me at christianfreud95@gmail.com
 
 <!---
 BigJellyDog/BigJellyDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
